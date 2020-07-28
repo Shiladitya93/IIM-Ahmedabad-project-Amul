@@ -1,5 +1,5 @@
 # IIM-Ahmedabad-project-Amul
-Elective course
+Second year Elective course
 
 # Title
 Diagnostic study of Dark Chocolate segment and accessing market opportunities for AMUL
