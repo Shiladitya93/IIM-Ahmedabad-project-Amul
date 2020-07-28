@@ -8,7 +8,7 @@ Diagnostic study of Dark Chocolate segment and accessing market opportunities fo
 Professor Vasant Gandhi, IIM Ahmedabad
 
 # Number of people: 
-Group of 3 (Abhishek Chand,Shiladitya Swarnakar,Sourish Nag) 
+Team of 3 (Abhishek Chand,Shiladitya Swarnakar,Sourish Nag) 
 
 # Duration: 
 3 months (Sep 2018- Nov 2018)
