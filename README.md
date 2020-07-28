@@ -1,6 +1,9 @@
 # IIM-Ahmedabad-project-Amul
 Elective course
 
+# Title
+Diagnostic study of Dark Chocolate segment and accessing market opportunities for AMUL
+
 # Supervisor
 Professor Vasant Gandhi, IIM Ahmedabad
 
@@ -8,7 +11,7 @@ Professor Vasant Gandhi, IIM Ahmedabad
 Group of 3 (Abhishek Chand,Shiladitya Swarnakar,Sourish Nag) 
 
 # Duration: 
-One Term (6 months)
+3 months
 
 # Background: 
 The dark chocolate segment of AMUL is quite new in the market and compared to its competitors it's not doing so well. So we wanted to understand the reasons and propose a solution to the problem.
