@@ -1,5 +1,5 @@
 # IIM-Ahmedabad-project-Amul
-Second year Elective course
+Second year Elective course as a part of IIM Ahmedabad PGP-FABM curriculum (2017-2019)
 
 # Title
 Diagnostic study of Dark Chocolate segment and accessing market opportunities for AMUL
