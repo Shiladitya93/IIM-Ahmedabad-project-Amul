@@ -1,10 +1,10 @@
 # IIM Ahmedabad Project Course
 Second year Elective course as a part of IIM Ahmedabad PGP-FABM curriculum (2017-2019)
 
-# Title
+# Title:
 Diagnostic study of Dark Chocolate segment and accessing market opportunities for AMUL
 
-# Supervisor
+# Supervisor:
 Professor Vasant Gandhi, IIM Ahmedabad
 
 # Number of people: 
