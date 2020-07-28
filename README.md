@@ -1,4 +1,4 @@
-# IIM-Ahmedabad-project-Amul
+# IIM Ahmedabad Project Course
 Second year Elective course as a part of IIM Ahmedabad PGP-FABM curriculum (2017-2019)
 
 # Title
